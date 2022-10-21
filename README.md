@@ -28,7 +28,7 @@
 
 ### 프로젝트 기획
 
-![기획.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/656ad284-3643-404f-96bf-ac3163e979ca/%EA%B8%B0%ED%9A%8D.png)
+![기획.png](/path/to/C:\Users\이예림\Documents\EdiyaProject)
 
 ### 개발 환경
 
