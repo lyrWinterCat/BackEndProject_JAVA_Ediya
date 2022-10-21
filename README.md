@@ -28,7 +28,7 @@
 
 ### 프로젝트 기획
 
-![기획.png](/path/to/C:\Users\이예림\Documents\EdiyaProject)
+![기획](https://user-images.githubusercontent.com/103623292/197122865-4602453e-706d-4127-a31a-d8a8021c2632.png)
 
 ### 개발 환경
 
@@ -44,9 +44,9 @@
 
 ### 프로모션 이미지 구현 , 메인 화면 프레임 구현
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42cbe284-0154-4ab9-937d-809b6a4c0d60/Untitled.png)
+![promotion](https://user-images.githubusercontent.com/103623292/197122880-e5fb1a86-50cb-4851-a033-911eb0989b92.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5b324c-205c-4a9e-9ee1-2f9fe86477fc/Untitled.png)
+![main](https://user-images.githubusercontent.com/103623292/197122897-a21d5522-2603-4d2a-8941-3d8c6509edab.png)
 
 - 프로그램 실행 시 1초마다 화면이 바뀌며 3장의 프로모션 이미지가 나타난다.
 - 이미지를 클릭하면 제품 구매 / 관리자 선택 화면으로 이동한다.
@@ -56,9 +56,9 @@
 
 ### 상품 선택, 옵션 선택, 장바구니 담기, 비우기, 주문하기 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1cdf3ac1-6057-41d3-924f-b8ca0fb4d4a3/Untitled.png)
+![orderImage1](https://user-images.githubusercontent.com/103623292/197122919-4093522e-ac70-4bf8-bc0e-a8955e1e3aed.png)
 
-![orderImage.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cba30fc-3ffc-4479-9384-0f971b5959ec/orderImage.png)
+![orderImage22](https://user-images.githubusercontent.com/103623292/197122923-119c4bce-044d-4f87-8aa9-6f44f09ce2e8.png)
 
 - 메뉴 사진을 클릭하면 해당 메뉴에 맞는 옵션 선택 버튼이 활성화된다.
 - 모든 옵션은 중복체크가 불가능한 라디오 버튼으로 구현하였다.
@@ -74,7 +74,7 @@
 
 ### 관리자 모드 로그인 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/125dd45c-c821-492a-ad57-cf170937247a/Untitled.png)
+![AdminLogin](https://user-images.githubusercontent.com/103623292/197123115-1d955d39-acb9-484d-a5e5-f972afcb8bd1.png)
 
 - 관리자 버튼 클릭시 들어오는 화면
 - 프로그램 구현시 설정한 비밀번호를 입력하면 매출관리, 재고관리 버튼이 활성화된다.
@@ -85,7 +85,7 @@
 
 ### 구매 페이지와 연동하여 재고 관리 페이지 구현
 
-![storage.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/723b457b-a68c-482d-aa10-d0b66cdf3027/storage.png)
+![storage](https://user-images.githubusercontent.com/103623292/197123138-11943f9f-7d0f-4f34-8e30-bb3284194051.png)
 
 - 구매 화면에서 제품 주문하기에 성공하면 해당 상품의 재고가 줄어든다.
 - 화면 상단의 버튼을 클릭하면 버튼에 맞는 상품의 재고가 출력된다.
@@ -95,15 +95,15 @@
 
 ### 구매 페이지, 재고 페이지와 연동하여 매출 관리 페이지 구현
 
-![accountAdmin.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/246665fe-ffd7-47c6-acc9-6f6ae45be4e9/accountAdmin.png)
+![accountAdmin](https://user-images.githubusercontent.com/103623292/197123197-d8e7381c-2bb7-4bae-86d3-8cc0dca38658.png)
 
-![sellProduct.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ef76a74-2874-41f0-88dc-d70d29b46188/sellProduct.png)
+![sellProduct](https://user-images.githubusercontent.com/103623292/197123225-4bc3e545-4767-45e7-b117-50d21478a413.png)
 
-![sellGraph.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46fdde71-4cf3-4dfc-87d3-5676e0412141/sellGraph.png)
+![sellGraph](https://user-images.githubusercontent.com/103623292/197123232-b1d0c45b-4ee0-40b4-89d0-0990c2902d20.png)
 
-![sellCalendar.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c9b26f97-89a3-4d45-b851-7e5ad027cc93/sellCalendar.png)
+![sellCalendar](https://user-images.githubusercontent.com/103623292/197123256-32e9bcc1-dde5-45d1-9b09-c01920337cbe.png)
 
-![spendMoney.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8f12cb3-d56a-4d4a-85e4-7f83a9e06267/spendMoney.png)
+![spendMoney](https://user-images.githubusercontent.com/103623292/197123273-32e05501-152c-49fc-9fdf-70151f78b909.png)
 
 - 매출 관리 페이지로 들어가면 버튼에 따라 당일 매출, 월별 판매액, 총 지출액을 확인 및 입력할 수 있다.
 - 당일 매출은 구매 페이지와 연동되어 주문 성공한 제품들의 수량과 가격이 표기되며, 즉시 확인이 가능하다. 그래프로 어떤 상품이 얼마나 팔렸는지도 확인할 수 있다.
